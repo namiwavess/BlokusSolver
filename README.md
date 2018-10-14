@@ -1,1 +1,1 @@
-# Blokus_AI
+# BlokusSolver
